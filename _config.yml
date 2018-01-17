@@ -1,0 +1,16 @@
+title: "fort: a Fortran frontend for LLVM"
+author: LLVM-Fortran community
+description: > # this means to ignore newlines until "baseurl:"
+  Fort is a LLVM front end for Fortran. Modern, portable, hackable compiler.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: llvm-fortran
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
