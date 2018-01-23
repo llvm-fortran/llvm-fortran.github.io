@@ -20,6 +20,7 @@ Pro's of Fort vs Flang:
 - Fort supports all LLVM targets
 - Flang emits LLVM IR as text, which is error-prone and often forces to check output only at runtime
 - Fort uses LLVM diagnostics
+- Tooling API
 
 ## Fort vs GNU Fortran
 

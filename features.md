@@ -5,13 +5,19 @@ long_title: Fort - Features and Goals
 permalink: /features/
 ---
 
-End-user goals:
+## End-user goals
 
-- Diagnostics
-- LLVM optimizations
+- Fast compiles and low memory use
+- Expressive diagnostics
 - Modern Fortran support
 
-Development goals:
+## Utility and applications
+
+- Modular library based architecture
+- Support for building external tools via tooling API
+- Same 'BSD' license as LLVM
+
+## Development goals
 
 - Following LLVM best practices
 - Ease of maintenance
