@@ -17,6 +17,5 @@ Site needs more content!
 To improve layout and readability:
 
 - More "LLVM" style (from stylesheet), simplify the page layout
-- Add some structure to the menu (at least introduce some order based on
-  content)
+- More structure to the menu - categories
 

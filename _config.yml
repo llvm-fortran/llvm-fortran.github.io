@@ -5,6 +5,15 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: llvm-fortran
+# Remove this to have pages auto-generated from file system
+header_pages:
+  - about.md
+  - comparison.md
+  - features.md
+  - hacking.md
+  - download.md
+  - blog.md
+  - contact.md
 
 # Build settings
 markdown: kramdown

@@ -6,7 +6,7 @@ permalink: /hacking/
 
 Compiler sources are on Github: [github.com/llvm-fortran/fort][comp].
 
-## Buildng Fort together with LLVM
+## Building Fort together with LLVM
 
 1. Get required tools
    - C/C++ compiler, see [LLVM System Requirements][ll-req]
