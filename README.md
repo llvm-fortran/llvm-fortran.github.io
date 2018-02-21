@@ -1,7 +1,12 @@
 llvm-fortran.github.io
 ======================
 
-Jekyll-based site for the project.
+Jekyll-based site for the project. To set up Ruby dependencies locally run
+`bundle install`/`bundle update`, to serve run
+
+```
+$ bundle exec jekyll serve
+```
 
 ## Changes from stock minima theme
 
