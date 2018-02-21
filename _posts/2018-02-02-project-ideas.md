@@ -5,6 +5,8 @@ date:   2018-02-02 17:17:59 -0800
 categories: projects
 ---
 
+_Update:_ See [Project Ideas][wiki] wiki page for current list.
+
 The ideas listed here came from our community, feel free to propose your own.
 
 ## Tooling
@@ -45,3 +47,4 @@ Please open an issue describing your proposal. Check our [proposed enhancement l
 [es]: https://github.com/llvm-fortran/fort/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement
 [dr]: https://github.com/llvm-fortran/fort/issues/4
 [polly]: http://polly.llvm.org
+[wiki]: https://github.com/llvm-fortran/fort/wiki/Project-Ideas
