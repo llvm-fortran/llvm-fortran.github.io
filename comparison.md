@@ -9,7 +9,7 @@ permalink: /comparison/
 
 Pro's of Flang vs Fort:
 
-- Much more complete Fortran support (though less than that of GCC)
+- Much more complete Fortran support (though less than that of GNU Fortran)
 
 Pro's of Fort vs Flang:
 
@@ -21,6 +21,9 @@ Pro's of Fort vs Flang:
 - Flang emits LLVM IR as text, which is error-prone and often forces to check output only at runtime
 - Fort uses LLVM diagnostics
 - Tooling API
+
+_Note:_ it was recently [announced][flrwr] that Nvidia is undertaking some
+form of a rewrite of Flang. Stay tuned for updates to the comparison.
 
 ## Fort vs GNU Fortran
 
@@ -35,4 +38,6 @@ Pro's of fort vs GNU Fortran:
 - Fort is designed as an API, which allows it to be used as a foundation for other tools
 - BSD-style license (can be embedded in other products)
 - Clear and concise diagnostics
+
+[flrwr]: http://lists.llvm.org/pipermail/cfe-dev/2018-May/058135.html
 
